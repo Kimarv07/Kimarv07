@@ -10,7 +10,7 @@
 <br>
 <br>
 # Git Stacks
-![](https://github-readme-stats.vercel.app/api?username=Kimarv07&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimarv07&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kimarv07&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimarv07&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kimarv07&hide_border=false)<br/>
 

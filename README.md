@@ -1,6 +1,4 @@
-## Hi there 👋
-
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Avenir&pause=1000&color=11B5C5&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
 
 <!--
 **Kimarv07/Kimarv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

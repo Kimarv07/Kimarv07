@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:80ffea,100:0d2373&height=300&section=header&text=Kimarv07&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:80ffea,100:0d2373&height=300&section=header&text=Kimarv's Github&fontSize=85)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Avenir&pause=1000&color=11B5C5&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
 

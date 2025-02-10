@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Avenir&pause=1000&color=11B5C5&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Kimarv07/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kimarv07" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimarv07&count_private=true&show_icons=true)](https://github.com/Kimarv07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimarv07)](https://github.com/Kimarv07/github-readme-stats)
 
 <!--
 **Kimarv07/Kimarv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

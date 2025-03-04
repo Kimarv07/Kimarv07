@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:80ffea,100:0d2373&height=300&section=header&text=Kimarv's%20Github&fontSize=85)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Avenir&pause=1000&color=11B5C5&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17959C&center=true&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
+
+
+<div tag="profile" align="center">
+  <h3>클라이언트 / AI 기술에 관심 많은 이예정입니다.</h3>
+<br/>
+📚 좋아하는 것은 더 깊게, 그 외도 얇고 넓게. 끊임없이 배우고 있습니다.
+</div>
 
 # Work Skills
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

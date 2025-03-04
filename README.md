@@ -7,10 +7,11 @@
 </div>
 
 <div tag="profile" align="center">
-  <h3>클라이언트 / AI 기술에 관심 많은 이예정입니다.</h3>
-<br/>
 📚 좋아하는 것은 더 깊게, 그 외도 얇고 넓게. 끊임없이 배우고 있습니다.
+<br/>
 </div>
+
+<br/>
 
 # Work Skills
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

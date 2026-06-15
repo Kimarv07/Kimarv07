@@ -2,8 +2,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:80ffea,100:0d2373&height=300&section=header&text=Kimarv's%20Github&fontSize=85)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17959C&center=true&width=435&lines=Game+Client+%2F+AI+Programmer" alt="Typing SVG" /></a>
-
 </div>
 
 <div tag="profile" align="center">
@@ -14,10 +12,10 @@
 <br/>
 
 # Work Skills
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)

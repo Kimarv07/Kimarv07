@@ -9,6 +9,12 @@
 <br/>
 </div>
 
+# Areas of interest
+- LLM / NLP
+- Game AI
+- Modeling & Simulation
+
+
 <br/>
 
 # Work Skills

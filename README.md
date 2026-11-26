@@ -8,6 +8,8 @@
 📚 좋아하는 것은 더 깊게, 그 외도 얇고 넓게. 끊임없이 배우고 있습니다.
 <br/>
 </div>
+<br/>
+<br/>
 
 # Areas of interest
 - LLM / NLP

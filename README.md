@@ -34,7 +34,6 @@
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 <br>
 # Git Stacks
-![](https://github-readme-stats.vercel.app/api?username=Kimarv07&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimarv07&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kimarv07&hide_border=false)<br/>
 
